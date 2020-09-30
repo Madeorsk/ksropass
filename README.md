@@ -1,3 +1,7 @@
+# ksropass
+
+WIP, I just want to get a software like gopass that is working fine. Wanting to drop everything that makes password-store awesome (git and gpg) is breaking everything.
+
 <p align="center">
     <img src="logo.png" height="250" alt="gopass Gopher by Vincent Leinweber, remixed from the Renée French original Gopher" title="gopass Gopher by Vincent Leinweber, remixed from the Renée French original Gopher" />
 </p>
